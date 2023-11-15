@@ -23,5 +23,5 @@
    - V(Value): Giá trị cường độ
 
 ## Biến đổi tuyến tính
-   - ![Lookup table](sources/look-up-table.png)
-   - ![Lookup table](sources/bien-doi-tuyen-tinh.png)
+   - ![Lookup table](images/look-up-table.png)
+   - ![Lookup table](images/bien-doi-tuyen-tinh.png)
