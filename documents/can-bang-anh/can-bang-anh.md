@@ -2,6 +2,7 @@
 
 1. Cân bằng histogram
    ![Exam 1](img.png)
+   - Contrast limited adaptive histogram equalization
 
 2. Cộng ảnh
    ![Exam 1](img_1.png)
