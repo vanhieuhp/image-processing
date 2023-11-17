@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-img = cv2.imread("/home/hieujr/data/python/image-processing/images/My_dog.jpg")
+img = cv2.imread("/images/my_dog.jpg")
 print(type(img))
 
 print(img.shape)
@@ -15,7 +15,7 @@ fix_img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 # plt.imshow(fix_img)
 # plt.show()
 
-img_gray = cv2.imread("/home/hieujr/data/python/image-processing/images/My_dog.jpg", cv2.IMREAD_GRAYSCALE)
+img_gray = cv2.imread("/images/my_dog.jpg", cv2.IMREAD_GRAYSCALE)
 # plt.imshow(img_gray, cmap='gray')
 # plt.show()
 

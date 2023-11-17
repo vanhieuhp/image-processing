@@ -16,7 +16,7 @@ print(arr.max())
 print(arr.min())
 
 print("================================================")
-pic = Image.open("/home/hieujr/data/python/image-processing/images/My_dog.jpg")
+pic = Image.open("/images/my_dog.jpg")
 plt.imshow(pic)
 plt.show()
 

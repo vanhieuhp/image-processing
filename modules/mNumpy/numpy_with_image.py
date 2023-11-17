@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 
-pic = Image.open("/home/hieujr/data/python/image-processing/images/My_dog.jpg")
+pic = Image.open("/images/my_dog.jpg")
 # pic.show()
 
 print(type(pic))

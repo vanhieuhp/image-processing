@@ -1,6 +1,6 @@
 import cv2
 
-img = cv2.imread("/home/hieujr/data/python/image-processing/images/My_dog.jpg")
+img = cv2.imread("/images/my_dog.jpg")
 
 while True:
     cv2.imshow("Puppy", img)
