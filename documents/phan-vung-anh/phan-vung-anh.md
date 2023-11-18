@@ -61,3 +61,12 @@ https://github.com/mohabmes/Otsu-Thresholding/blob/master/otsu.py
 ## Advice
 ![img_42.png](img_42.png)
 ![img_44.png](img_43.png)
+
+## Phân vùng theo mức
+![img_44.png](img_44.png)
+
+## Phân vùng theo viền
+![img_45.png](img_45.png)
+
+## Bài tập
+![img_46.png](img_46.png)

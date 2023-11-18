@@ -1,6 +1,7 @@
 # IMAGE PROCESSING
    - [CV2 Online Image Database](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
    - [Cô Lê Thị Lan](https://www.mica.edu.vn/perso/Le-Thi-Lan/)
+   - [D2l Aivivn](https://d2l.aivivn.com/)
 ## Distance
 1. Euclip
 2. Chessboard
@@ -32,3 +33,5 @@
 [can-bang-anh.md](documents/can-bang-anh/can-bang-anh.md)
 
 [phan-vung-anh.md](documents%2Fphan-vung-anh%2Fphan-vung-anh.md)
+
+[tich-chap.md](documents%2Ftich-chap%2Ftich-chap.md)[tich-chap](documents%2Ftich-chap)
