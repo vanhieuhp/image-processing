@@ -2,6 +2,7 @@
    - [CV2 Online Image Database](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
    - [Cô Lê Thị Lan](https://www.mica.edu.vn/perso/Le-Thi-Lan/)
    - [D2l Aivivn](https://d2l.aivivn.com/)
+   - [Youtobe](https://www.youtube.com/watch?v=T3NRbhxS78Y&list=PL1HxRSJMOMPKuputz8QkXEK2bDJNxDzV8)
 ## Distance
 1. Euclip
 2. Chessboard

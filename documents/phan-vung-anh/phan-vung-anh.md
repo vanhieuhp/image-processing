@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=YMrRUlzYC8E&list=PL1HxRSJMOMPKuputz8QkXEK2bDJNxD
 ![img_26.png](img_26.png)
 ![img_27.png](img_27.png)
 ![img_28.png](img_28.png)
+![img_47.png](img_47.png)
 
 ## K-means
 ![img_29.png](img_29.png)
