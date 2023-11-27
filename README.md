@@ -27,12 +27,12 @@
    - S(Saturation): Độ đậm đặc, sự bão hòa
    - V(Value): Giá trị cường độ
 
-## Biến đổi tuyến tính
-   - ![Lookup table](images/look-up-table.png)
-   - ![Lookup table](images/bien-doi-tuyen-tinh.png)
+[Cân bằng ảnh](documents/can-bang-anh/can-bang-anh.md)
 
-[can-bang-anh.md](documents/can-bang-anh/can-bang-anh.md)
+[Phân vùng ảnh](documents%2Fphan-vung-anh%2Fphan-vung-anh.md)
 
-[phan-vung-anh.md](documents%2Fphan-vung-anh%2Fphan-vung-anh.md)
+[Tích chập](documents%2Ftich-chap%2Ftich-chap.md)
 
-[tich-chap.md](documents%2Ftich-chap%2Ftich-chap.md)[tich-chap](documents%2Ftich-chap)
+[Nhiễu](documents%2Fnoise%2Fnoise.md)
+
+[Đánh giá chất lượng ảnh](documents%2Fmetric%2Fmetric.md)

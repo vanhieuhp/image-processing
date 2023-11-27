@@ -23,3 +23,8 @@
 6. Bài tập
 
    ![img_5.png](img_5.png)
+
+
+## Biến đổi tuyến tính
+   - ![bien-doi-tuyen-tinh.png](img_6.png)
+   - ![look-up-table.png](img_7.png)
