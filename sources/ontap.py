@@ -56,3 +56,20 @@ print(W)
 
 print("\nKết quả sau khi lọc:")
 print(result)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
